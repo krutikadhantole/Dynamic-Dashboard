@@ -2,7 +2,7 @@ import React from "react";
 
 const DashboardTwo = () => {
   return (
-    <div className="mt-2 bg-gray-50  font-sans text-gray-900">
+    <div className="mt-2 bg-gray-50   font-sans text-gray-900">
       <h2 className="text-start text-lg font-semibold mb-4">Registry Scan</h2>
       <div className="flex h-[50]  space-x-6">
         {/* Image Risk Assessment */}
