@@ -51,7 +51,7 @@ const DashboardTwo = () => {
         </div>
 
         {/* Image Security Issues */}
-        <div className="flex-1 bg-white rounded-lg p-6 shadow-sm">
+        <div className="flex-1 h-[200] bg-white rounded-lg p-6 shadow-sm">
           <h3 className="text-start font-semibold mb-2">
             Image Security Issues
           </h3>
@@ -93,7 +93,7 @@ const DashboardTwo = () => {
         </div>
 
         {/* Add Widget Button */}
-        <div className="flex-1 bg-white rounded-lg p-6 shadow-sm flex items-center justify-center">
+        <div className="flex-1 h-[200] bg-white rounded-lg p-6 shadow-sm flex items-center justify-center">
           <button
             className="border border-gray-300 rounded-md px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 focus:outline-none"
             type="button"
