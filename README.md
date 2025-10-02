@@ -42,21 +42,21 @@ dynamic-dashboard/ ├── public/ ├── src/ │ ├── assets/ # Imag
 4. Open http://localhost:5173 in your browser.
 
    Scripts
-• npm run dev – Start the development server
-• npm run build – Build for production
-• npm run preview – Preview the production build
-• npm run lint – Run ESLint
+- npm run dev – Start the development server
+- npm run build – Build for production
+- npm run preview – Preview the production build
+- npm run lint – Run ESLint
 
   Customization
-- **Add/Edit Widgets: Use the "Add Widget" button in the UI to personalize your dashboard.
-- ** Initial Data: Modify src/data/initialData.json to change default categories and widgets.
-• Styling: TailwindCSS classes are used throughout for easy customization.
-• Dependencies
-• React
-• Redux Toolkit
-• React Redux
-• Vite
-• TailwindCSS
-• Recharts
-• Remixicon
-• uuid
+- Add/Edit Widgets: Use the "Add Widget" button in the UI to personalize your dashboard.
+- Initial Data: Modify src/data/initialData.json to change default categories and widgets.
+- Styling: TailwindCSS classes are used throughout for easy customization.
+- Dependencies
+- React
+- Redux Toolkit
+- React Redux
+- Vite
+- TailwindCSS
+- Recharts
+- Remixicon
+- uuid
