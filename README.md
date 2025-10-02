@@ -48,8 +48,8 @@ dynamic-dashboard/ ├── public/ ├── src/ │ ├── assets/ # Imag
 • npm run lint – Run ESLint
 
   Customization
-• Add/Edit Widgets: Use the "Add Widget" button in the UI to personalize your dashboard.
-• Initial Data: Modify src/data/initialData.json to change default categories and widgets.
+- **Add/Edit Widgets: Use the "Add Widget" button in the UI to personalize your dashboard.
+- ** Initial Data: Modify src/data/initialData.json to change default categories and widgets.
 • Styling: TailwindCSS classes are used throughout for easy customization.
 • Dependencies
 • React
