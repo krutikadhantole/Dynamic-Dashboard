@@ -6,7 +6,7 @@ const DashboardTwo = () => {
       <h2 className="text-start text-lg font-semibold mb-4">Registry Scan</h2>
       <div className="flex h-[50]  space-x-6">
         {/* Image Risk Assessment */}
-        <div className="flex-1 h-[50] bg-white rounded-lg p-6 shadow-sm">
+        <div className="flex-1 h-[200] bg-white rounded-lg p-6 shadow-sm">
           <h3 className="text-start font-semibold mb-2">
             Image Risk Assessment
           </h3>
